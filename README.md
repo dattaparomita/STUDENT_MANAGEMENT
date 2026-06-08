@@ -1,7 +1,7 @@
 # Student Management System
 A full-stack MERN application for managing student records. Users can add, view, edit, update, and delete student information through a responsive interface connected to MongoDB Atlas.
 
-# Live Demo: https://dattaparomita.github.io/STUDENT_MANAGEMENT/
+Live Demo: https://dattaparomita.github.io/STUDENT_MANAGEMENT/
 
 ## Features
 
