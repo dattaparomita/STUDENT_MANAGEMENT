@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 
 import './index.css'
 import App from './App.jsx'
@@ -9,7 +9,7 @@ import AddStudent from './pages/AddStudent';
 import Students from './pages/Students';
 import EditStudent from './pages/EditStudent';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <AddStudent />
