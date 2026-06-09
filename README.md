@@ -1,3 +1,5 @@
+<img width="1424" height="514" alt="Screenshot 2026-06-08 220257" src="https://github.com/user-attachments/assets/47246bfd-248c-41b5-9d78-5c2727a0b803" />
+
 # Student Management System
 A full-stack MERN application for managing student records. Users can add, view, edit, update, and delete student information through a responsive interface connected to MongoDB Atlas.
 
